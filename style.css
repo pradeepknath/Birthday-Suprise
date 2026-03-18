@@ -40,9 +40,9 @@ h1 {
 /* Slideshow */
 .slideshow {
     position: relative;
-    width: 250px;
-    height: 250px;
-    margin: 25px auto;      /* centers horizontally */
+    width: 350px;
+    height: 350px;
+    margin: 35px auto;      /* centers horizontally */
     display: flex;
     justify-content: center; /* centers the image inside container */
     align-items: center;     /* centers vertically */
